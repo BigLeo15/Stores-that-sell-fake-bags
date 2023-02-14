@@ -1,0 +1,25 @@
+img {
+    width: 350px;
+}
+
+body {
+    background-color: #E6F3FC;
+    color: #B30F3D;
+}
+
+.sing1 {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: #d0def5;
+}
+
+
+.sing1 {
+    font-family: 'Aguafina Script';
+    font-size: 100px;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: #d0def5;
+}
